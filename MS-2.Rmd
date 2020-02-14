@@ -1,0 +1,31 @@
+---
+title: "MS-2"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Final Project Milestone 2 - Commentary
+
+## Mari Jones - Racial & Gender Implications of the Criminal Justice System: Women and Children
+Pro 1: Mari did a great job of creating visually appealing graphs to convey her data. Both her histograms and line plots convey a specific relationships between datasets. We can clearly see how incaceration differs amongst genders and age groups without actually knowing much about the data, thanks the visual aspect of her graph. 
+
+Pro 2: Mari provided a concise and extensive background on the point of her project. She gave readers a lot of information regarding the history of the U.S' criminal justice system that helps give context to the data she provides. She gives the audience potential implications or questions that they can ask themselves while reading  her data to drive further analysis.
+
+Con 1: I think Mari's project could've been further improved by keeping the variables analyzed accross groups consistent. For example, in the juvenile section, she creates two plots; one on gender and one on race. In the mother's section she creates two plots; one on gender and one marking the change in rate of incarceration. I think if she could've made both sections talk about race, gender, and change of incarcertaion for both juveniles and mothers, the project would've been even better.
+
+Con 2: I would've liked to see interaction between the datasets of mothers and juveniles. She says in the summary of her report that the incarceration of mothers may effect that of juveniles. But that is not explicitly reported in the graphs. Maybe if she had plotted both groups in one graph it would've been more clear.
+
+## Miroslav Bergam: Donations of Harvard-Employed Individuals to 2020 Presidential Campaigns.
+Pro 1: Miroslav clearly managed to clean and report a great amount of data in a concise and visually appealing way. His breakdown of the data of donations by school, general population, variable analysis, and characteristics of donations demonstrate a close analysis of the data. They obviously spent a lot of time on the dataset to be able to separate out the information they wanted to organize and show.
+
+Pro 2: I appreciate that Miroslav explicitly wrote out the conclusions that could be drawn from the presentation of their data. Even though the data is very well presented and visually appealing, it might not be straight forward to someone that it not a data scientist or who doesn't work with the kinds of graphs they presented. Having the conclusions really helps orient the reader towards making a connection between the graphs and information given.
+
+Con 1: Because there is so much data to wrangle with, I believe the summary given could've been more extensive. For example, Miroslav could've referenced the data slide referred to in the claims made in the summary, so that readers know which one to return to if they wanted to check them. They also could've just added more information or conclusions drawn.
+
+Con 2: I wonder if Miroslav could've drawn inferential conclusions from the data collected and analyzed. Although direct conclusions are drawn, i.e. "HBS raise more donations", questions such as "what might it mean that HBS donates more" could've been asked. I think this might've been a good way to introduce a way to think about the data in context of the outside world, and get readers to think about implications of the data.
+
+
+
